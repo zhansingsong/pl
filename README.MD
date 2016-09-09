@@ -1,5 +1,4 @@
 #pl
-***
 pl是一个基于CSS3`@media`特性实现的、轻量级的、横竖屏检测实用库，它让orientation detection更加可靠，更加easy。
 #### 效果测试
 ![qrcode](qrcode.png)
