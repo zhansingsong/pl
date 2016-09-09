@@ -72,7 +72,7 @@
     }
 
     // callback
-    var orientationCB = function(event) {
+    var orientationCB = function() {
         if (win.orientation === 180 || win.orientation === 0) {
             meta.init = 'landscape';
             meta.current = 'landscape';
