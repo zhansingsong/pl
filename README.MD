@@ -3,7 +3,7 @@ pl是一个基于CSS3`@media`特性实现的、轻量级的、横竖屏检测实
 #### 效果测试
 ![qrcode](qrcode.png)
 ### usage
-将`pl`脚本（文件）引入`<head></head>`节点中。* 注意：*++ 将其放置在样式文件之后(保证不影响html的font-family的设置)++
+将`pl`脚本（文件）引入`<head></head>`节点中。**注意**：  *将其放置在样式文件之后(保证不影响html的font-family的设置)*
 ```xml
 <head>
   <meta charset="utf-8">
