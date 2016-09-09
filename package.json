@@ -1,0 +1,25 @@
+{
+  "name": "pl",
+  "version": "1.0.0",
+  "description": "orientation detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhansingsong/pl.git"
+  },
+  "keywords": [
+    "orientation",
+    "detection",
+    "landscape",
+    "portrait"
+  ],
+  "author": "zhansingsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhansingsong/pl/issues"
+  },
+  "homepage": "https://github.com/zhansingsong/pl#readme"
+}
